@@ -1,0 +1,18 @@
+p{
+    width: 80%;
+    background-color: beige;
+    padding: 30px 100px 30px;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: blueviolet;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+h1{
+    width: 80%;
+    background-color: beige;
+    border-top: 10px solid red;
+    border-bottom: 10px solid red;
+    padding-top: 30px;
+    margin-top: 100px;
+}

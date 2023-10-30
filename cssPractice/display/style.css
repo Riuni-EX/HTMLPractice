@@ -1,0 +1,22 @@
+header{
+    background-color: red;
+}
+ul{
+    list-style: nine;
+    /*并列显示*/
+    display: flex;
+    /*间隔*/
+    gap: 0 10px;
+    justify-content: end;
+
+}
+.last{
+    margin-right: 30px;
+}
+.blog-contens{
+    display: flex;
+    width: 90%;
+}
+.blog{
+    width: 30%;
+}
